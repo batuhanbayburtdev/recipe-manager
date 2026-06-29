@@ -1,0 +1,19 @@
+# Python virtual enviroment
+.venv/
+__pycache__
+*.pyc
+
+#Enviromental variables
+.env
+
+#Database files
+
+*.db
+*.sqlite3
+
+#Upload images
+uploads/*
+!uploads/.gitkeep
+
+#IDE
+.idea/
